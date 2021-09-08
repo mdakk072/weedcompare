@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/weedcompare/static/css/main.d0a6e62b.chunk.css",
-    "main.js": "/weedcompare/static/js/main.0f8e10fa.chunk.js",
-    "main.js.map": "/weedcompare/static/js/main.0f8e10fa.chunk.js.map",
-    "runtime-main.js": "/weedcompare/static/js/runtime-main.c985f36b.js",
-    "runtime-main.js.map": "/weedcompare/static/js/runtime-main.c985f36b.js.map",
+    "main.css": "/weedcompare/static/css/main.130f5e5f.chunk.css",
+    "main.js": "/weedcompare/static/js/main.d7b2f04b.chunk.js",
+    "main.js.map": "/weedcompare/static/js/main.d7b2f04b.chunk.js.map",
+    "runtime-main.js": "/weedcompare/static/js/runtime-main.a7bc59e9.js",
+    "runtime-main.js.map": "/weedcompare/static/js/runtime-main.a7bc59e9.js.map",
     "static/css/2.4be38407.chunk.css": "/weedcompare/static/css/2.4be38407.chunk.css",
-    "static/js/2.0d4fb593.chunk.js": "/weedcompare/static/js/2.0d4fb593.chunk.js",
-    "static/js/2.0d4fb593.chunk.js.map": "/weedcompare/static/js/2.0d4fb593.chunk.js.map",
-    "static/js/3.4292b57e.chunk.js": "/weedcompare/static/js/3.4292b57e.chunk.js",
-    "static/js/3.4292b57e.chunk.js.map": "/weedcompare/static/js/3.4292b57e.chunk.js.map",
+    "static/js/2.3b321645.chunk.js": "/weedcompare/static/js/2.3b321645.chunk.js",
+    "static/js/2.3b321645.chunk.js.map": "/weedcompare/static/js/2.3b321645.chunk.js.map",
+    "static/js/3.ab17c19b.chunk.js": "/weedcompare/static/js/3.ab17c19b.chunk.js",
+    "static/js/3.ab17c19b.chunk.js.map": "/weedcompare/static/js/3.ab17c19b.chunk.js.map",
     "index.html": "/weedcompare/index.html",
     "static/css/2.4be38407.chunk.css.map": "/weedcompare/static/css/2.4be38407.chunk.css.map",
-    "static/css/main.d0a6e62b.chunk.css.map": "/weedcompare/static/css/main.d0a6e62b.chunk.css.map",
-    "static/js/2.0d4fb593.chunk.js.LICENSE.txt": "/weedcompare/static/js/2.0d4fb593.chunk.js.LICENSE.txt",
+    "static/css/main.130f5e5f.chunk.css.map": "/weedcompare/static/css/main.130f5e5f.chunk.css.map",
+    "static/js/2.3b321645.chunk.js.LICENSE.txt": "/weedcompare/static/js/2.3b321645.chunk.js.LICENSE.txt",
     "static/media/style.css": "/weedcompare/static/media/fog-2.8aeda6af.png",
     "static/media/App.css": "/weedcompare/static/media/StruckBase.4df94051.otf",
     "static/media/prod.27c6332d.jpg": "/weedcompare/static/media/prod.27c6332d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c985f36b.js",
+    "static/js/runtime-main.a7bc59e9.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.0d4fb593.chunk.js",
-    "static/css/main.d0a6e62b.chunk.css",
-    "static/js/main.0f8e10fa.chunk.js"
+    "static/js/2.3b321645.chunk.js",
+    "static/css/main.130f5e5f.chunk.css",
+    "static/js/main.d7b2f04b.chunk.js"
   ]
 }
